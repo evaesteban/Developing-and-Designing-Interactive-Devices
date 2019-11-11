@@ -68,8 +68,6 @@ When submitting your assignments, add hyperlinks (only) once they're ready to be
 
 ## Final Project
 
-[Mind-controlled Wheelchair](https://github.com/evaesteban/IDD-Final-Project)
-
 ## Office Hours
 ###### Wendy
 Mondays from 3:00 PM - 5:00 PM in Bloomberg 254 or the MakerLAB. 
